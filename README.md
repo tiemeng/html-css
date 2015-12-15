@@ -1,3 +1,3 @@
-# My Awesome Book
+# HTML+CSS
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+主要整理前端的html+css的基础知识，来轻松入门HTML+CSS
